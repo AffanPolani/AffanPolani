@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AffanPolani
 - 👀 I’m interested in get to know fellow developers
-- 🌱 I’m currently learning MAUI .NET Core Based
+- 🌱 I’m currently learning React JS 
 - 💞️ I’m looking to collaborate on anything intresting
 - 📫 How to reach me though https://www.linkedin.com/in/map05/ or affanpolani05@gmail.com
 
